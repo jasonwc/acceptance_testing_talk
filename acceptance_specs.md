@@ -33,12 +33,16 @@
 
 ---
 
-## ...so that means, write a unit test, implement it
+## ...so that means, write a __unit__ test, implement it
 ![fit right](http://www.memes.at/faces/questioning.jpg)
 
 ---
 
 ## __Unit tests__ gave me confidence that __my class__ worked as expected
+
+---
+
+## On __unit__ tests...
 
 ---
 
@@ -50,11 +54,15 @@
 
 ---
 
-## So I got better at writing integration tests...
+## So I got better at writing __integration__ tests...
 
 ---
 
 ## __Integration tests__ gave me confidence that __my classes worked together__ as I expected
+
+---
+
+## On __integration__ tests...
 
 ---
 
@@ -123,29 +131,33 @@
 
 ---
 
-## Isn't that what QA is for?
+## Isn't that what __QA__ is for?
 ![fit left](http://www.memes.at/faces/questioning.jpg)
 
 ---
 
-## QA has better things to do
+## They have __better__ things to do
 
 ---
 
-## They're great at finding edge cases
+## They're great at finding __edge cases__
 ![fit left](https://pbs.twimg.com/media/CFBzC9gWgAAXrZL.jpg)
 
 ---
 
-## The __acceptance test__ tells you when you're __done__... immediately
+## They're great at identifying __wonky__ behavior
 
 ---
 
-## We're starting to pair with QA on these tests
+## They should be your __last__ line of defense, __not your first__
 
 ---
 
 ![fit](http://www.kappit.com/img/pics/201601_0639_igdgf_sm.jpg)
+
+---
+
+## The __acceptance test__ tells you when you're __done__... immediately
 
 ---
 
@@ -245,7 +257,15 @@
 
 ---
 
-## Not scoping
+## Not scoping your finders
+
+---
+
+## Asynchronous code
+
+---
+
+## Mixing setup and actions
 
 ---
 
@@ -651,7 +671,7 @@ end
 
 ---
 
-## How do I start doing this?
+## How do I start?
 
 ---
 
